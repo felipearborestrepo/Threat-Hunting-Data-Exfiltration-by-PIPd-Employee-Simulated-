@@ -80,7 +80,8 @@ Steps taken:
 
 ### 6. Documentation
 Documented full investigation, timestamps, KQL queries, and matching MITRE techniques. All screenshots and findings are included in this repository.
-
+Notes I took for documentation of steps:
+file:///C:/Users/arbof/Downloads/Untitled%20document.pdf
 ### 7. Improvement
 - 🔐 Improve PowerShell script logging
 - 📦 Alert on archive creation by unexpected processes
